@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * bitonic_sort - sorts an array uisng the 
+ * bitonic_sort - sorts an array uisng the
  * Bitonic sort algorithm
  * @array: array of ints to sort
  * @size: size of the array

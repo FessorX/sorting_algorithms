@@ -3,7 +3,7 @@
 /**
  * list_len - function returns length of list
  * @list: head of list
- * 
+ *
  * Return: length
  */
 size_t list_len(listint_t *list)
@@ -19,7 +19,7 @@ size_t list_len(listint_t *list)
 }
 
 /**
- * switch_nodes - function swaps nodes at pointer p 
+ * switch_nodes - function swaps nodes at pointer p
  * with the following node
  * @list: head of list
  * @p: pointer to node
@@ -46,7 +46,7 @@ void switch_nodes(listint_t **list, listint_t **p)
 }
 
 /**
- * cocktail_sort_list - function sorts a doubly linked list 
+ * cocktail_sort_list - function sorts a doubly linked list
  * using the cocktail sort algorithm
  * @list: pointer to list
  */
